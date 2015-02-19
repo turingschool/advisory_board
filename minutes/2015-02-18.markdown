@@ -1,0 +1,49 @@
+# Attendees
+
+* Jeff Casimir
+* Chandra Carney
+* Gregory Narajka
+* Krista Nelson
+* Mike Dao
+* Miriam Moser
+* Lori Culberson
+* Thomas Leskin
+* Tess Griffin
+
+# Notes
+
+## What's one success from the first week-and-a-half of the module?
+
+* 1502: surviving so far, getting through the work
+* 1409: Danny giving himself a job, testing JavaScript, people having job interviews
+* 1410: Doing jQuery, having Jorge as a "client" and Josh doing technical reviews
+* 1412: Task Manager felt like an easy-ish "win"
+
+## What's one unaddressed problem at Turing?
+
+* Inconsistency in evaluations / assessments. Are rubrics effective / accurate?
+* We revisiting an assignment with instructors, we don't get all the way through the implementation (1502)
+* We need to do more to recognize and intervene earlier when students are struggling
+* Some of the back seats/desks in classrooms make it tough to see the screen / hear the instructor
+* It's hard to hear, particularly in Classroom A, when instructors don't use the mics
+* The air in C is basically unusable -- too loud
+* Nobody knows how to give critical, supportive feedback -- either about peers or staff, hesitant to put things in the survey
+* Pairing -- older cohorts don't like it, don't really know how to do it, think it's only a crutch, miss learning opportunities
+* Posse cleanup time needs more celebration of success / accountability for skipping out - shout-outs to David, Tim, others
+* Noise levels within a group/class. IE, when a teacher is teaching, there are often side conversations going on.
+* Better guidance/instruction/patterns on how to ask for help from mentors and alumni
+* Not enough accountability on projects
+
+## Discussion
+
+* Evals/Rubrics: definitely needs some revision. Pull requests accepted. It'd be interesting to organize some peer-to-peer assessment practice to lower anxiety and practice feedback. Friday work time might be a good time.
+* Pairing: lots of friction. 1502 is doing exercises right now. Cross cohort pairing has been "the best." The more senior person gets to deepen their understanding, both sides get a lot out of it.
+* Recording & A/V: let's get all staff on ScreenFlow and uploading videos to Vimeo. Jeff will experiment with some better A/V setups particularly in Classroom A.
+
+## Next Steps
+
+* Continue a bit of discussion in Slack
+* Work on A/V setup for A
+* Get staff to purchase ScreenFlow
+* Get staff to use mics consistently
+* Setup a next meeting for two weeks from today
