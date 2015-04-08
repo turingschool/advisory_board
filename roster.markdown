@@ -10,11 +10,11 @@
 
 ## Module Beginning 3/30
 
-* 1410: Krista Nelson, [X1]
-* 1412: Miriam Moser, [X2]
-* 1502: Thomas Leskin, [X3]
-* 1503: [X4], [X5]
-* Staff: Jeff Casimir, [X6]
+* 1410: Krista Nelson, Brandon Mrsny
+* 1412: Miriam Moser, Markus Olsen
+* 1502: Thomas Leskin, Kristina Brown
+* 1503: Morgan Miller, Michael Merrill
+* Staff: Jeff Casimir
 
 ## Module Beginning 5/18
 
