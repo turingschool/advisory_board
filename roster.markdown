@@ -18,8 +18,8 @@
 
 ## Module Beginning 5/18
 
-* 1412: [X2], [Y1]
-* 1502: [X3], [Y2]
-* 1503: [X5], [Y3]
-* 1505: [Y4], [Y5]
-* Staff: [X6], [Y6]
+* 1412: ____, Markus Olsen
+* 1502: ____, Kristina Brown
+* 1503: Sally MacNichols, Morgan Miller
+* 1505: Marla Brizel, Mike Dorrance
+* Staff: Horace
