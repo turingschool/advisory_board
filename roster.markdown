@@ -18,8 +18,8 @@
 
 ## Module Beginning 5/18
 
-* 1412: ____, Markus Olsen
-* 1502: ____, Kristina Brown
+* 1412: Tino Espinoza, Markus Olsen
+* 1502: Mihir Parikh, Kristina Brown
 * 1503: Sally MacNichols, Morgan Miller
 * 1505: Marla Brizel, Mike Dorrance
 * Staff: Horace
