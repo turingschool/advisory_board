@@ -23,3 +23,13 @@
 * 1503: Sally MacNichols, Morgan Miller
 * 1505: Marla Brizel, Mike Dorrance
 * Staff: Horace
+
+## Module Beginning 7/6
+
+* 1502: Mihir Parikh, Eric Dowty
+* 1503: Sally MacNichols, Max Tedford
+* 1505: Marla Brizel, Lovisa Svallingson
+* 1507: Mary Beth Burch, Adam Jensen
+
+
+
