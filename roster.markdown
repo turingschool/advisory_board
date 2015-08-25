@@ -32,5 +32,9 @@
 * 1507: Mary Beth Burch, Adam Jensen
 * Staff: Jeff Casimir
 
-
+## Module Beginning 8/24
+* 1503 - Max Tedford, Brett Grigsby
+* 1505 - Lovisa Svallingson, Alex Tideman
+* 1507 - Adam Jensen, Mimi Schatz
+* 1508 - Torie Joy-Warren, Ryan Johnson
 
