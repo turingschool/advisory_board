@@ -1,0 +1,32 @@
+# Module 4
+
+- Horace is great
+- seems to be division between people doing well, and people doing less well
+
+# Module 3
+
+- people like APIs
+- changing codebase has not been too challenging -> big feedback from alumni
+  has been that they wished they had worked more on other peoples' code
+- 1 class on SQL in mod 2, maybe not the right number of SQL classes
+- cultural vibe is unchanged
+
+# Module 2
+
+- concern there wasn't a rock bottom in module 1 for this cohort
+- pretty unified culturally
+- recombining echo and foxtrot seems to have gone well
+
+# Module 1
+
+- stress about repeating module 1 and the assessment
+- props from other modules for being so good at reaching out to other students
+- need more file I/O teaching
+- refactoring lesson not great
+
+# Other
+
+- program and admission requirements are harder than 6 months ago
+- happier with grads now (Jeff would work with all of you)
+- wants to paint a stronger picture of why we're all here and doing this program
+- module 4 is always the least engaged of the modules
