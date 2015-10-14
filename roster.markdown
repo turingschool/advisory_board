@@ -33,8 +33,15 @@
 * Staff: Jeff Casimir
 
 ## Module Beginning 8/24
+
 * 1503 - Max Tedford, Brett Grigsby
 * 1505 - Lovisa Svallingson, Alex Tideman
 * 1507 - Adam Jensen, Mimi Schatz
 * 1508 - Torie Joy-Warren, Ryan Johnson
 
+## Module Beginning 10/12
+
+* 1505 - Alex Tideman, ___
+* 1507 - Mimi Schatz, ___
+* 1508 - Torie Joy-Warren, ___
+* 1510 - ___, ___
