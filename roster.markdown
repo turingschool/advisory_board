@@ -41,7 +41,7 @@
 
 ## Module Beginning 10/12
 
-* 1505 - Alex Tideman, ___
-* 1507 - Mimi Schatz, ___
-* 1508 - Torie Joy-Warren, ___
-* 1510 - ___, ___
+* 1505 - Alex Tideman, Adam Caron
+* 1507 - Mimi Schatz, Travis Haby
+* 1508 - Torie Joy-Warren, Chad Minnerath
+* 1510 - Alexis Navarrete, Lauren Thomson
