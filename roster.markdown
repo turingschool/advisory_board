@@ -44,4 +44,4 @@
 * 1505 - Alex Tideman, Adam Caron
 * 1507 - Mimi Schatz, Travis Haby
 * 1508 - Torie Joy-Warren, Chad Minnerath
-* 1510 - Alexis Navarrete, Lauren Thomson
+* 1510 - Alexis Navarrete, Brant Millman
