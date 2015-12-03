@@ -45,3 +45,10 @@
 * 1507 - Mimi Schatz, Travis Haby
 * 1508 - Torie Joy-Warren, Chad Minnerath
 * 1510 - Alexis Navarrete, Brant Millman
+
+## Module Beginning 11/30
+
+* 1507 - Travis Haby, Jeff Ruane
+* 1508 - Marlo Major, Sekhar Paladugu
+* 1510 - Brant Wellman, Brenna Martensen
+* 1511 - Alex Navarrete, Heidi Hoopes
