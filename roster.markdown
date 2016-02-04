@@ -50,5 +50,12 @@
 
 * 1507 - Travis Haby, Jeff Ruane
 * 1508 - Marlo Major, Sekhar Paladugu
-* 1510 - Brant Wellman, Brenna Martensen
-* 1511 - Alex Navarrete, Heidi Hoopes
+* 1510 - Brant Wellman, Brenna Martenson
+* 1511 - Brennan Holtzclaw, Heidi Hoopes
+
+## Module Beginning 2/1
+
+* 1508 - Sekhar Paladugu, Amber Crawford
+* 1510 - Brenna Martenson, Jordan Lawler
+* 1511 - Brennan Holtzclaw, Kimi Kano
+* 1602 - Thom Pickett, Kami Boers
