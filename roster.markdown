@@ -59,3 +59,10 @@
 * 1510 - Brenna Martenson, Jordan Lawler
 * 1511 - Brennan Holtzclaw, Kimi Kano
 * 1602 - Thom Pickett, Kami Boers
+
+## Module Beginning 3/21
+
+* 1510 - Jordan Lawler, Beth Sebian
+* 1511 - Kimi Kano, Brian Rippeto
+* 1602 - Kami Boers, Sal Espinosa
+* 1603 - Sonia Gupta, Brian Sayler
